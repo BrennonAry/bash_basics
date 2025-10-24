@@ -21,8 +21,6 @@ fi
 # everything else
 
 
-# In Brennon Branch
-
 echo "What is the temperature like today?"
 echo "Please give a numeric answer."
 read temp
